@@ -56,4 +56,5 @@ sudo dnf install -y sqlitebrowser \
 	julia \
 	scala \
 	intltool \
-	wxWidgets wxWidgets-devel
+	wxWidgets wxWidgets-devel \
+	gedit-plugins
