@@ -50,6 +50,8 @@ sudo dnf install -y sqlitebrowser \
 	xorg-x11-xkb-utils-devel \
 	libpng-devel \
 	vala \
+	valadoc \
+	uncrustify \
 	nasm \
 	julia \
 	scala
