@@ -15,17 +15,13 @@ sudo dnf install -y sqlitebrowser \
 	albert \
 	htop \
 	util-linux-user \
-	vim-enhanced \
+	vim-enhanced neovim \
 	tree \
 	hstr \
 	gimp \
 	planner \
-	neovim \
-	gtk+ gtk+-devel \
-	gtk2 gtk2-devel \
-	gtk3 gtk3-devel \
-	qt qt-devel \
-	qt5 qt5-devel qt-creator \
+	gtk+ gtk2 gtk3 \
+	qt qt5 qt-creator \
 	papirus-icon-theme \
 	xsel \
 	xclip \
@@ -33,7 +29,7 @@ sudo dnf install -y sqlitebrowser \
 	tcpdump \
 	peek \
 	inkscape \
-	libpcap libpcap-devel \
+	libpcap \
 	wireshark \
 	arc-theme \
 	adapta-gtk-theme \
@@ -45,10 +41,6 @@ sudo dnf install -y sqlitebrowser \
 	idle3 \
 	ghex \
 	zsh \
-	libxkbcommon-devel libXtst-devel \
-	libxkbcommon-x11-devel \
-	xorg-x11-xkb-utils-devel \
-	libpng-devel \
 	vala \
 	valadoc \
 	uncrustify \
@@ -56,5 +48,34 @@ sudo dnf install -y sqlitebrowser \
 	julia \
 	scala \
 	intltool \
-	wxWidgets wxWidgets-devel \
-	gedit-plugins
+	wxWidgets \
+	gedit-plugins \
+	ncurses \
+	granite \
+	opencv
+
+# Development Packages
+sudo dnf install -y gtk+-devel \
+	gtk2-devel gtk3-devel \
+	qt-devel qt5-devel \
+	libpcap-devel \
+	libxkbcommon-devel libXtst-devel \
+	libxkbcommon-x11-devel \
+	xorg-x11-xkb-utils-devel \
+	libpng-devel \
+	wxWidgets-devel \
+	ncurses-devel \
+	curl-devel gedit-devel \
+	granite-devel \
+	fuse-devel \
+	cups-devel \
+	enchant-devel \
+	SDL-devel SDL2-devel \
+	libsoup-devel \
+	colord-devel colord-gtk-devel \
+	clutter-devel \
+	lua-devel \
+	jsonrpc-glib-devel \
+	libnotify-devel \
+	opencv-devel \
+	libgcrypt-devel
