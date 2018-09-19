@@ -22,7 +22,7 @@ These are all optional, of course:
 
 - zsh (Oh My ZSH)
 - gnome-tweaks
-- docker
+- Docker
 - Visual Studio Code Plugins
 	- Go
 	- Vim
