@@ -52,7 +52,9 @@ sudo dnf install -y sqlitebrowser \
 	gedit-plugins \
 	ncurses \
 	granite \
-	opencv
+	opencv \
+	leveldb \
+	appstream
 
 # Development Packages
 sudo dnf install -y gtk+-devel \
@@ -78,4 +80,12 @@ sudo dnf install -y gtk+-devel \
 	jsonrpc-glib-devel \
 	libnotify-devel \
 	opencv-devel \
-	libgcrypt-devel
+	libgcrypt-devel \
+	libsecret-devel \
+	libdaemon-devel \
+	libgweather-devel \
+	readline-devel \
+	rest-devel \
+	leveldb-devel \
+	accountsservice-devel
+	appstream-devel
