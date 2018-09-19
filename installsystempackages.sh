@@ -54,4 +54,6 @@ sudo dnf install -y sqlitebrowser \
 	uncrustify \
 	nasm \
 	julia \
-	scala
+	scala \
+	intltool \
+	wxWidgets wxWidgets-devel
