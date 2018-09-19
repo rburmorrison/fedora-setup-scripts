@@ -87,5 +87,5 @@ sudo dnf install -y gtk+-devel \
 	readline-devel \
 	rest-devel \
 	leveldb-devel \
-	accountsservice-devel
+	accountsservice-devel \
 	appstream-devel
