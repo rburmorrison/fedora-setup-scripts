@@ -2,6 +2,15 @@
 
 Scripts to make setting up Fedora quick.
 
+## Installation Order
+
+1. installsystempackages.sh
+1. installdocker.sh
+1. installgo.sh
+1. installgopackages.sh
+1. installpythonpackages.sh
+1. installyarnpackages.sh
+
 ## Things to Install Manually
 
 These are all optional, of course:
