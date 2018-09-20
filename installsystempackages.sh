@@ -66,7 +66,8 @@ sudo dnf install -y sqlitebrowser \
 	gnome-todo \
 	octave \
 	shutter \
-	pandoc
+	pandoc \
+	vte libgda-ui
 
 # Development Packages
 sudo dnf install -y gtk+-devel \
@@ -108,4 +109,7 @@ sudo dnf install -y gtk+-devel \
 	flatpak-devel ]
 	telepathy-glib-devel \
 	folks-devel \
-	gjs-devel
+	gjs-devel \
+	libdazzle-devel \
+	vte-devel \
+	libgda-ui-devel
