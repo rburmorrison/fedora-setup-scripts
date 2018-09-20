@@ -65,7 +65,8 @@ sudo dnf install -y sqlitebrowser \
 	devhelp \
 	gnome-todo \
 	octave \
-	shutter
+	shutter \
+	pandoc
 
 # Development Packages
 sudo dnf install -y gtk+-devel \
