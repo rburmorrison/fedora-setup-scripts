@@ -97,4 +97,4 @@ sudo dnf install -y gtk+-devel \
 	oniguruma-devel \
 	libmatheval-devel \
 	libxml-devel \
-	libxnck-devel \
+	libxnck-devel
