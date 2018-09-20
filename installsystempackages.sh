@@ -55,7 +55,11 @@ sudo dnf install -y sqlitebrowser \
 	opencv \
 	leveldb \
 	appstream \
-	key-mon
+	key-mon \
+	oniguruma \
+	libmatheval \
+	libwnck \
+	libxml
 
 # Development Packages
 sudo dnf install -y gtk+-devel \
@@ -89,4 +93,8 @@ sudo dnf install -y gtk+-devel \
 	rest-devel \
 	leveldb-devel \
 	accountsservice-devel \
-	appstream-devel
+	appstream-devel \
+	oniguruma-devel \
+	libmatheval-devel \
+	libxml-devel \
+	libxnck-devel \
