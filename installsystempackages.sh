@@ -54,7 +54,8 @@ sudo dnf install -y sqlitebrowser \
 	granite \
 	opencv \
 	leveldb \
-	appstream
+	appstream \
+	key-mon
 
 # Development Packages
 sudo dnf install -y gtk+-devel \
