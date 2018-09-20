@@ -59,7 +59,13 @@ sudo dnf install -y sqlitebrowser \
 	oniguruma \
 	libmatheval \
 	libwnck \
-	libxml
+	libxml \
+	scribus \
+	sequeler \
+	devhelp \
+	gnome-todo \
+	octave \
+	shutter
 
 # Development Packages
 sudo dnf install -y gtk+-devel \
@@ -97,4 +103,8 @@ sudo dnf install -y gtk+-devel \
 	oniguruma-devel \
 	libmatheval-devel \
 	libxml-devel \
-	libxnck-devel
+	libxnck-devel \
+	flatpak-devel ]
+	telepathy-glib-devel \
+	folks-devel \
+	gjs-devel
