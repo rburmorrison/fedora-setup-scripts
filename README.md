@@ -17,6 +17,7 @@ These are all optional, of course:
 
 - Eclipse (Latest)
 - Glade (Flatpak)
+- Java (Latest)
 - Kotlin
 - Postman
 - Gluon SceneBuilder
