@@ -67,7 +67,8 @@ sudo dnf install -y sqlitebrowser \
 	octave \
 	shutter \
 	pandoc \
-	vte libgda-ui
+	vte libgda-ui \
+	menulibre
 
 # Development Packages
 sudo dnf install -y gtk+-devel \
