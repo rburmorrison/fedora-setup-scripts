@@ -1,6 +1,6 @@
 # Fedora Setup Scripts
 
-Scripts to make setting up Fedora quick.
+Scripts to make setting up Fedora in an offline environment quick.
 
 ## Installation Order
 
