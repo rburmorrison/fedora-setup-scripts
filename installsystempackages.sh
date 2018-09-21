@@ -73,7 +73,8 @@ sudo dnf install -y sqlitebrowser \
 	pandoc \
 	vte libgda-ui \
 	menulibre \
-	code
+	code \
+	kdevelop
 
 # Development Packages
 sudo dnf install -y gtk+-devel \
@@ -111,8 +112,8 @@ sudo dnf install -y gtk+-devel \
 	oniguruma-devel \
 	libmatheval-devel \
 	libxml-devel \
-	libxnck-devel \
-	flatpak-devel ]
+	libwnck-devel \
+	flatpak-devel \
 	telepathy-glib-devel \
 	folks-devel \
 	gjs-devel \
