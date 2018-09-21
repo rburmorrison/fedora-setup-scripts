@@ -15,7 +15,7 @@ Scripts to make setting up Fedora quick.
 
 These are all optional, of course:
 
-- Eclipse (Latest)
+- Eclipse (Latest) / Idea-CE
 - Glade (Flatpak)
 - Java (Latest)
 - Kotlin
