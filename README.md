@@ -16,14 +16,11 @@ Scripts to make setting up Fedora quick.
 These are all optional, of course:
 
 - Eclipse (Latest)
-- Golang
 - Kotlin
-- Docker
 - Postman
 - Gluon SceneBuilder
 - Themes (Ant, Bibata-Ice)
 - Anaconda Python
-- Visual Studio Code
 - Chrome
 - draw.io
 
