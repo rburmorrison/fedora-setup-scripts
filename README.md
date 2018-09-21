@@ -2,6 +2,10 @@
 
 Scripts to make setting up Fedora in an offline environment quick.
 
+## Using xorg
+
+Run `sudo systemctl restart gdm`, and select xorg at login (at the gear icon).
+
 ## Installation Order
 
 1. installsystempackages.sh
