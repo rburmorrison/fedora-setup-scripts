@@ -16,6 +16,7 @@ Scripts to make setting up Fedora quick.
 These are all optional, of course:
 
 - Eclipse (Latest)
+- Glade (Flatpak)
 - Kotlin
 - Postman
 - Gluon SceneBuilder
