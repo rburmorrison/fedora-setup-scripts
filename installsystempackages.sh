@@ -119,4 +119,5 @@ sudo dnf install -y gtk+-devel \
 	gjs-devel \
 	libdazzle-devel \
 	vte-devel \
-	libgda-ui-devel
+	libgda-ui-devel \
+	gtkmm30-devel
