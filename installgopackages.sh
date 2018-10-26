@@ -30,6 +30,7 @@ go get -v github.com/derekparker/delve/cmd/dlv
 go get -v github.com/rogpeppe/godef
 go get -v github.com/sqs/goreturns
 go get -v github.com/golang/lint/golint
+go get -v github.com/sourcegraph/go-langserver
 
 # Databases
 go get -v github.com/jinzhu/gorm
