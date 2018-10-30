@@ -45,4 +45,10 @@ These are all optional, of course:
 	- etc.
 - Idea-CE Plugins
 	- Idea-Vim
+- Vim Plugins
+	- Golang
+	- Completion
+	- Rust
+	- NerdTree
+	- etc.
 
