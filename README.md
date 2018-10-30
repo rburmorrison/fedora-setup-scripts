@@ -19,7 +19,7 @@ Run `sudo systemctl restart gdm`, and select xorg at login (at the gear icon).
 
 These are all optional, of course:
 
-- Eclipse (Latest) / Idea-CE
+- Idea-CE
 - Glade (Flatpak)
 - Java (Latest)
 - Kotlin
@@ -42,10 +42,6 @@ These are all optional, of course:
 	- Vala
 	- Colors
 	- etc.
-- Eclipse Plugins
-	- EasyShell
-	- Vrapper
-	- Kotlin
-	- Enhanced Class Decompiler
-	- Julia
+- Idea-CE Plugins
+	- Idea-Vim
 
