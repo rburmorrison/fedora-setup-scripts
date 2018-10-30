@@ -22,6 +22,7 @@ These are all optional, of course:
 - Idea-CE
 - Glade (Flatpak)
 - Java (Latest)
+- Rust (Stable, Nightly)
 - Kotlin
 - Postman
 - Gluon SceneBuilder
