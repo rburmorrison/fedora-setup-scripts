@@ -22,6 +22,9 @@ sudo dnf install -y sqlitebrowser \
 	vim-enhanced neovim \
 	tree \
 	hstr \
+	cmake \
+	make \
+	gcc-c++ \
 	gimp \
 	planner \
 	gtk+ gtk2 gtk3 \
@@ -122,4 +125,5 @@ sudo dnf install -y gtk+-devel \
 	libdazzle-devel \
 	vte-devel \
 	libgda-ui-devel \
-	gtkmm30-devel
+	gtkmm30-devel \
+	python3-devel
