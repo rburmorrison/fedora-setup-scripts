@@ -69,6 +69,7 @@ sudo dnf install -y sqlitebrowser \
 	devhelp \
 	gnome-todo \
 	octave \
+	emacs \
 	shutter \
 	pandoc \
 	vte libgda-ui \
