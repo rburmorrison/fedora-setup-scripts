@@ -28,6 +28,7 @@ sudo dnf install -y sqlitebrowser \
 	qt qt5 qt-creator \
 	papirus-icon-theme \
 	xsel \
+	task \
 	xclip \
 	nodejs \
 	tcpdump \
