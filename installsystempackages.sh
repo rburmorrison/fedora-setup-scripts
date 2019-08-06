@@ -33,7 +33,7 @@ sudo dnf install -y sqlitebrowser \
 	xsel \
 	task \
 	xclip \
-	nodejs \
+	nodejs npm \
 	tcpdump \
 	peek \
 	inkscape \
